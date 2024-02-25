@@ -1,4 +1,4 @@
-package acess_modifiers;
+package access_modifiers;
 
 public class Program
 {
